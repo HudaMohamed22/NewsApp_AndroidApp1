@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Name">NAME</string>
+    <string name="pass">PASSWORD</string>
+    <string name="title_activity_items_show">ItemsShowActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment2">Hello blank fragment_22222</string>
+    <string name="hello_blank_fragment1">Hello blank fragment_1111111</string>
+    <string name="api_Key">4aa91dc386dd44079566dccb9423bc6f</string>
+
+</resources>
